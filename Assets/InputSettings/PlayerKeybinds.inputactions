@@ -1,0 +1,63 @@
+{
+    "name": "PlayerKeybinds",
+    "maps": [
+        {
+            "name": "PlayerController",
+            "id": "933f8e04-71df-4563-b8b7-6413719f8807",
+            "actions": [
+                {
+                    "name": "Using",
+                    "type": "Button",
+                    "id": "19b0a72a-4f72-497e-8780-975ce19d982d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Run",
+                    "type": "Button",
+                    "id": "53a3fbdf-b7f3-4023-adcd-d22522ad9d86",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b35b4bc5-0de1-4788-990f-fbc1e5cd36ca",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Using",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c277e781-f750-4b84-bf55-5515b10c03af",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Using",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "df50bbdc-8d1f-4550-9ccf-44f87eff4e65",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Run",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
